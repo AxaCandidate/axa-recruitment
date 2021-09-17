@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Avanssur.Automation.GuiTests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseUrlGui" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.google.pl/maps/</Value>
+    </Setting>
+    <Setting Name="Browser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Edge</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
